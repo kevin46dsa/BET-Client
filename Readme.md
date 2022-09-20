@@ -17,6 +17,7 @@ Please Note: Due to Heroku Free Hosting the site may take longer to load or may 
 ## ChatBot 
 ![chatbot](https://user-images.githubusercontent.com/67777018/189949159-c6e95e93-faa5-4055-bd0e-da008c66a6a8.PNG)
 ## Email on Signup
+![Email](https://user-images.githubusercontent.com/67777018/191165177-4a79da8b-79f4-4b94-9430-3db098e8f291.png)
 ## Add Expenses and Income
 ![add expenses](https://user-images.githubusercontent.com/67777018/189949156-6a539408-d9e7-4a70-ba81-d0a6c16f6fa6.PNG)
 ![addincome](https://user-images.githubusercontent.com/67777018/189949157-aa03e662-9e59-449a-a29f-95c93ff0c8c4.PNG)
