@@ -8,6 +8,11 @@ Please Note: Due to Heroku Free Hosting the site may take longer to load or may 
 # Directions to Use
 ### This app uses an API Server [BET-APIServer](https://betserverapi.herokuapp.com/) or this GitHub Repository [BET-APIServer GitHub Repo](https://github.com/kevin46dsa/BET-APIServer)
 
+1. Open this link [BET-APIServer](https://betserverapi.herokuapp.com/) *Please Note: Due to Heroku Free Hosting the site may take longer to load or may show Application error just simply refresh the page again for it to load*
+2. Open [BET-Client](https://betclient.herokuapp.com/) 
+3. Use Bet-Client To Budget Expenses more Efficiently
+
+
 # Features
 
 ## DashBoard
